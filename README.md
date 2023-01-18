@@ -117,15 +117,15 @@ But before fitting our dataset to its model first we have to separate the predic
 
 I have selected 12 models:
 
-Support Vector Classifier
-Knn
-Decision Tree Classifier
-Random Forest Classifier
-Ada Boost Classifier
-Gradient Boosting Classifier
-Stochastic Gradient Boosting (SGB)
-XgBoost
-Cat Boost Classifier
-Extra Trees Classifier
-LGBM Classifier
-Voting Classifier
+- Support Vector Classifier
+- Knn
+- Decision Tree Classifier
+- Random Forest Classifier
+- Ada Boost Classifier
+- Gradient Boosting Classifier
+- Stochastic Gradient Boosting (SGB)
+- XgBoost
+- Cat Boost Classifier
+- Extra Trees Classifier
+- LGBM Classifier
+- Voting Classifier
